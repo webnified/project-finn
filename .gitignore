@@ -35,3 +35,4 @@ build/
 
 # ignore folders
 node_modules/
+npm-debug.log
