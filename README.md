@@ -1,0 +1,4 @@
+project-finn
+============
+
+Attendance app
